@@ -1,0 +1,24 @@
+[
+  {
+    "city": "Moscow",
+    "stats": [
+      {
+        "date": "2022-05-18",
+        "no_rain_hours": 11,
+        "avg_temp_per_day": 13.1
+      },
+      {
+        "date": "2022-05-19",
+        "no_rain_hours": 5,
+        "avg_temp_per_day": 10.7
+      },
+      {
+        "date": "2022-05-20",
+        "no_rain_hours": 11,
+        "avg_temp_per_day": 11.4
+      }
+    ],
+    "avg_temp_all_days": 11.7,
+    "avg_no_rain_hours": 9.0
+  }
+]
