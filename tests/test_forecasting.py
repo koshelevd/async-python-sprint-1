@@ -32,7 +32,6 @@ class TestForecasting:
         """Test that data calculation task works correctly."""
         task = DataCalculationTask()
         result: Result = task.run(response)
-        print(type(result))
         assert result.city == 'Moscow'
         assert result.avg_temp_all_days == 11.7
         assert result.avg_no_rain_hours == 9.0
